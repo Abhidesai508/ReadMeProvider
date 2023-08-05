@@ -1,7 +1,7 @@
- # Jarvis
+ # Readme
   
 ## Description: 
-   AI
+   description
 
 ## Table of Contents: 
 - [Installation](#installation)
@@ -12,20 +12,20 @@
 - [Questions](#questions)
    
 ## Installation: 
-   GPT
+   installation
   
 ## Usage: 
-   Personal
+   usuage
 
 undefined
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
   
 ## Contributions: 
-   n/a
+   contribution
    
 ## Testing: 
-   none
+   intrustion
    
 ## Contact: 
-   abhishek
+   abhishek.desai@gmail.com
