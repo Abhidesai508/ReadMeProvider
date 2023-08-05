@@ -12,9 +12,9 @@
 - [Questions](#questions)
    
 ## Installation: 
-   Clone the file (SSH key or HTTP key)
-   Run Command "npm install" in VS code
-   Run command "node index.js"
+   1. Clone the file (SSH key or HTTP key)
+   2. Run Command "npm install" in VS code
+   3. Run command "node index.js"
   
 ## Usage: 
    usuage
