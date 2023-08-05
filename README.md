@@ -1,7 +1,7 @@
- # Readme
+ # READMEPROVIDER
   
 ## Description: 
-   description
+   
 
 ## Table of Contents: 
 - [Installation](#installation)
@@ -12,20 +12,19 @@
 - [Questions](#questions)
    
 ## Installation: 
-   installation
+   Clone the file (SSH key or HTTP key)
+   Run Command "npm install" in VS code
+   Run command "node index.js"
   
 ## Usage: 
    usuage
 
-undefined
-
-
   
 ## Contributions: 
-   contribution
+   Abhishek Desai
    
 ## Testing: 
-   intrustion
+   Abhishek Desai
    
 ## Contact: 
    abhishek.desai@gmail.com
