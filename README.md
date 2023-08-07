@@ -17,8 +17,8 @@
    3. install npm 
    4. node index.js
   
-## Usage: 
-   N/A
+## Recording: 
+   [Title](<Assets/Screen Recording 2023-08-07 at 1.42.15 AM.mov>)
 
 ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
   
