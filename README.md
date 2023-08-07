@@ -18,7 +18,9 @@
    4. node index.js
   
 ## Recording: 
-   [Title](<Assets/Screen Recording 2023-08-07 at 1.42.15 AM.mov>)
+   
+https://youtu.be/i0NEG_anOYs
+
 
 ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
   
